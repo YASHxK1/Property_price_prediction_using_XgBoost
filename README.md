@@ -20,7 +20,6 @@ Property_price_prediction_using_XgBoost/
 ├── model_XGB_training.ipynb          # Main training notebook
 ├── use_model_XGB.py                  # Inference script
 ├── real_estate_xgb_model.pkl         # Trained model (2.3 MB)
-└── README.md                         # This file
 ```
 
 ## 🚀 Getting Started
@@ -200,19 +199,3 @@ The saved model file (`real_estate_xgb_model.pkl`) contains:
 - [ ] Add property size/square footage data if available
 - [ ] Implement cross-validation for more robust evaluation
 - [ ] Deploy as a web API using Flask/FastAPI
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 📧 Contact
-
-For questions or feedback, please open an issue in the repository.
-
----
-
-**Note**: This model is for educational and research purposes. Always consult with real estate professionals for actual property valuations.
