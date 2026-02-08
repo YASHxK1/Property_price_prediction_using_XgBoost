@@ -20,13 +20,17 @@ Property_price_prediction_using_XgBoost/
 ├── model_XGB_training.ipynb          # Main training notebook
 ├── use_model_XGB.py                  # Inference script
 ├── real_estate_xgb_model.pkl         # Trained model (2.3 MB)
+└── Real_Estate_Sales_2001_to_2023.csv# Dataset
 ```
-## link
+## dataset link
 '''
 https://www.kaggle.com/datasets/yasmeenfahme/real-estate-sales
-or 
+'''
+## or
+''' 
 https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 '''
+
 ## 🚀 Getting Started
 
 ### Prerequisites
